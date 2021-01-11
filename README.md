@@ -37,5 +37,9 @@
 </a> 
 
 
+<a href="https://www.canva.com/">
+<img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/en/3/3b/Canva_Logo.png"/> 
+</a> 
+
 
 
