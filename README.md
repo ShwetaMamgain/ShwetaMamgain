@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-        I'm a Front-End Developer with a UX / UI passion
+        I'm a UI / UX enthusiast by passion 
 </h3
 
 - 💬 Ask me about HTML, CSS
