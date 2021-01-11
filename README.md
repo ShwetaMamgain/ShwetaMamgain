@@ -1,5 +1,7 @@
 ### Hi there, I'm Shweta 👋
-**#TechEnthusiast, #Machinelearning, #WebTechnologies**
+**#TechEnthusiast, #WebTechnologies**
+
+- 💬 Ask me about HTML, CSS
 
 <!-- - 🔭 I’m currently working on a Machine learning project
 - 🌱 I’m currently learning React
