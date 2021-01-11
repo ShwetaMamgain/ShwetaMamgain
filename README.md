@@ -36,10 +36,16 @@
 <img align="left" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/> 
 </a> 
 
-
 <a href="https://www.canva.com/">
 <img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/en/3/3b/Canva_Logo.png"/> 
 </a> 
 
+<a href="https://wordpress.org/">
+<img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png"/> 
+</a> 
+
+<a href="https://code.visualstudio.com/">
+<img align="left" width="35px" src="https://secrethub.io/img/vs-code.svg"/> 
+</a> 
 
 
