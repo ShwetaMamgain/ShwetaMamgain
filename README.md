@@ -1,4 +1,6 @@
-### Hi there, I'm Shweta 👋
+<h1 align="center">
+        Hi there, I'm Shweta 👋
+</h1>
 
 <h3 align="center">
         I'm a Front-End Developer with a UX / UI passion
