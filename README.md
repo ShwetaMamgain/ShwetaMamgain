@@ -1,5 +1,8 @@
 ### Hi there, I'm Shweta 👋
-**#TechEnthusiast, #WebTechnologies**
+
+<h3 align="center">
+        I'm a Front-End Developer with a UX / UI passion
+</h3
 
 - 💬 Ask me about HTML, CSS
 
